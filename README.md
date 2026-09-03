@@ -1,4 +1,4 @@
-## GTAF Token (Green Tech Agro Farms)
+# GTAF Token (Green Tech Agro Farms)
 
 ## About GTAF
 
@@ -55,13 +55,12 @@ https://pancakeswap.finance/swap?inputCurrency=0x190a79d19BE3259Ba4Df59847bb2794
 
 ## Project Documentation
 
-📄 **Whitepaper:** [View Whitepaper](./Whitepaper/)
+📄 **White Paper:** [View White Paper](./WhitePaper/)
 
-🗺️ **Roadmap:** [View Roadmap](./Roadmap/)
+🗺️ **Road Map:** [View Road Map](./RoadMap/)
 
 📊 **Tokenomics:** [View Tokenomics](./Tokenomics/)
 
 ---
 
-© Green Tech Agro Farms (GTAF) GTAF-BNB
-Official repository for the GTAF Token on BNB Smart Chain (BNB).
+© Green Tech Agro Farms (GTAF)
