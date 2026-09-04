@@ -1,36 +1,38 @@
-# Official GTAF Logos
+# 🌱 Official GTAF Logos
 
 This directory contains the official logo assets of **GTAF (Green Tech Agro Farms)**.
 
-These files are provided as the official visual identity resources of the GTAF project and may be used by supported platforms, wallets, exchanges, explorers, media services, and other third-party services for displaying the GTAF logo.
+These files are provided as official visual identity resources of the GTAF project and may be used by platforms, wallets, exchanges, blockchain explorers, media services, websites, applications, and other supported third-party services for displaying the official GTAF logo.
 
-## Logo Formats
+---
 
-### PNG – Black Background
+## 📁 Logo Collections
 
-Official GTAF logo versions designed for use on black or dark backgrounds.
+### 🖤 PNG Black Background
 
-📁 `PNG-BlackBackground`
+Official GTAF logo versions in PNG format with a black background.
 
-Available in multiple sizes.
+[🖤 Open PNG Black Background Logos](./PNG-BlackBackground/)
 
-### PNG – Transparent Background
+---
 
-Official GTAF logo versions with a transparent background.
+### 🔲 PNG Transparent
 
-📁 `PNG-Transparent`
+Official GTAF logo versions in PNG format with a transparent background.
 
-Available in multiple sizes.
+[🔲 Open PNG Transparent Logos](./PNG-Transparent/)
 
-### SVG – Vector Logo
+---
 
-Official GTAF vector logo files in SVG format.
+### 🔷 SVG Logo
 
-📁 `SVG-Logo`
+Official GTAF logo versions in scalable SVG format.
 
-SVG files are suitable for platforms and services that require scalable vector graphics.
+[🔷 Open SVG Logos](./SVG-Logo/)
 
-## Available Sizes
+---
+
+## 📐 Available Sizes
 
 Logo files are available in multiple sizes, including:
 
@@ -48,10 +50,14 @@ Logo files are available in multiple sizes, including:
 - 500×500
 - 512×512
 - 1024×1024
-- Original high-resolution versions
+- 1256×1256
+- 1536×1536
+- Original master versions
 
-## Official Project
+---
+
+## 🌍 Official Project
 
 **GTAF — Green Tech Agro Farms**
 
-This GitHub repository serves as an official source for GTAF project resources and public assets.
+This GitHub repository serves as an official source for GTAF project resources, documentation, and public digital assets.
