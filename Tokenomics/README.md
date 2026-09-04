@@ -1,5 +1,7 @@
 # 📊 GTAF Tokenomics
 
+![GTAF Tokenomics](./GTAF-Tokenomics.png)
+
 ## Token Information
 
 **Token Name:** Green Tech Agro Farms  
