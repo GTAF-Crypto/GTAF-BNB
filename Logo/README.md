@@ -1,17 +1,57 @@
 # Official GTAF Logos
 
-This folder contains the official GTAF logos in different sizes and formats.
+This directory contains the official logo assets of **GTAF (Green Tech Agro Farms)**.
 
-## Black Background PNG
+These files are provided as the official visual identity resources of the GTAF project and may be used by supported platforms, wallets, exchanges, explorers, media services, and other third-party services for displaying the GTAF logo.
 
-16, 32, 48, 64, 128, 250, 256, 300, 400, 450, 500, 512, 1024, 1536
+## Logo Formats
 
-## Transparent Background PNG
+### PNG – Black Background
 
-16, 32, 48, 64, 128, 250, 256, 300, 400, 450, 500, 512
+Official GTAF logo versions designed for use on black or dark backgrounds.
 
-## Transparent Background SVG
+📁 `PNG-BlackBackground`
 
-16, 24, 64, 128, 200, 250, 256, 300, 400, 450, 500, 512
+Available in multiple sizes.
 
-Please use only the official GTAF logo files provided in this repository.
+### PNG – Transparent Background
+
+Official GTAF logo versions with a transparent background.
+
+📁 `PNG-Transparent`
+
+Available in multiple sizes.
+
+### SVG – Vector Logo
+
+Official GTAF vector logo files in SVG format.
+
+📁 `SVG-Logo`
+
+SVG files are suitable for platforms and services that require scalable vector graphics.
+
+## Available Sizes
+
+Logo files are available in multiple sizes, including:
+
+- 16×16
+- 32×32
+- 48×48
+- 64×64
+- 128×128
+- 200×200
+- 250×250
+- 256×256
+- 300×300
+- 400×400
+- 450×450
+- 500×500
+- 512×512
+- 1024×1024
+- Original high-resolution versions
+
+## Official Project
+
+**GTAF — Green Tech Agro Farms**
+
+This GitHub repository serves as an official source for GTAF project resources and public assets.
